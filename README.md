@@ -1,4 +1,4 @@
-# Optimization Of Self-driving Car Based On Velocity Adjustment in Reinforcement Learnin
+# Optimization Of Self-driving Car Based On Velocity Adjustment in RL
 
 
 
@@ -50,7 +50,7 @@ About reward setting:
 > Visualization 
 
 <p align="center"> 
-<img src="" width="500" height="80"/>
+<img src="viz.png" width="500" height="80"/>
 </p>
 
 - The grey grid: Roads and Pavements
