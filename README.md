@@ -64,6 +64,21 @@ About reward setting:
 </br>
 </br>
 
+### File Description
+With Python 3
+- self-driving.ipynb
+  The notebook contains all codes and comments
+- report.pdf
+  The report of the project, including detailed introduction, description and algorithm and their results' analysis
+- output
+  The folder contains output files for each method (like result-plot.png and q-table.pkl)
+- requirements.txt
+  The dependent libraries
+- viz.png
+  One example visualization screenshot of the agent/vehicle learning outcome
+
+</br>
+</br>
 
 ### Dependencies
 With Python 3
