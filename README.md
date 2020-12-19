@@ -65,7 +65,6 @@ About reward setting:
 </br>
 
 ### File Description
-With Python 3
 - self-driving.ipynb: 
   The notebook contains all codes and comments
 - report.pdf: 
@@ -87,7 +86,7 @@ With Python 3
 - [matplotlib](https://matplotlib.org/)
 - [pandas](https://pandas.pydata.org/)
 - [pickle](https://docs.python.org/3/library/pickle.html) - to save the table in .pkl file
-- [tkinter](https://docs.python.org/3/library/tk.html) - to run the visualization
+- [tkinter](https://docs.python.org/3/library/tk.html) - to generator the visualization/animation
 - [tensorflow](https://www.tensorflow.org/) - DQN
 - [random](https://docs.python.org/3/library/random.html)
 - [time](https://docs.python.org/3/library/time.html)
