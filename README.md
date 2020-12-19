@@ -50,7 +50,7 @@ About reward setting:
 > Visualization 
 
 <p align="center"> 
-<img src="viz.png" width="500" height="80"/>
+<img src="viz.png" width="500" height="50"/>
 </p>
 
 - The grey grid: Roads and Pavements
