@@ -19,7 +19,7 @@ Reinforcement learning is considered a powerful AI paradigm that can teach machi
 </br>
 
 
-## Environment definition:
+## Environment
 We use Tkinter to build a simple car driving environment. The entire environment is a 3*35 gray grid, where the first row represents the road where the car is driving, and a square that changes color as the speed changes is used to represent the vehicle, and the vehicle travels from left to right. The speed of the vehicle is represented by moving several squares at a time. For example, when the speed is 2, the vehicle will move two squares to the right in the next step. The initial speed is 3, the faster the vehicle speed, the darker its color. The vehicle has 5 actions [maintain speed, speed +1, speed +2, speed -1, speed -2];
 
 A yellow circle in the second row indicates the end point, and the car passes the end point at the specified speed is a task to complete (which is 4);
